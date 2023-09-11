@@ -12,7 +12,6 @@
 [Google Colab](https://colab.research.google.com/)
 
 # Deep Learning
-# Deep Learning
 * [TensorFlow 2 quickstart](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/quickstart/beginner.ipynb)  
   * [Built-in small datasets](https://keras.io/api/datasets/)  
   * [Activation functions](https://keras.io/api/layers/activations/)  
