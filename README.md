@@ -19,4 +19,6 @@
   * [Optimizers](https://keras.io/api/optimizers/)  
   * [Metrics](https://keras.io/api/metrics/)  
   * [Architectures](https://keras.io/api/applications/)  
-  * [Callbacks](https://keras.io/api/callbacks/)  
+  * [Callbacks](https://keras.io/api/callbacks/)
+* [Convolutional Neural Network (CNN)](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/images/cnn.ipynb) [[Paper]](https://arxiv.org/pdf/1511.08458.pdf) [[Explainer]](https://poloclub.github.io/cnn-explainer/)  
+* [Image classification, [Data Augmentation], [Batch Normalization], [Overfitting], and [Dropout]](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/images/classification.ipynb)  
