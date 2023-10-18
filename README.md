@@ -25,3 +25,5 @@
 * [Transfer learning and fine-tuning](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/images/transfer_learning.ipynb)
 * [Autoencoders](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/generative/autoencoder.ipynb) [[Paper]](https://arxiv.org/pdf/2003.05991.pdf)  
 * [Variational Autoencoder (VAE)](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/generative/cvae.ipynb) [[Paper]](https://arxiv.org/pdf/1906.02691.pdf)
+* [Generative Adversarial Network (GAN)](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/generative/dcgan.ipynb) [[Paper1]](https://arxiv.org/pdf/1406.2661.pdf) [[Paper2]](https://arxiv.org/pdf/1511.06434.pdf) [[Paper3]](https://arxiv.org/pdf/1701.00160.pdf) [[Scribble Diffusion]](https://scribblediffusion.com/) [[ChatGPT]](https://openai.com/blog/chatgpt/) [[GPTZero]](https://gptzero.me/)
+* [Image Segmentation with U-Net](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/images/segmentation.ipynb) [[Paper]](https://arxiv.org/pdf/1505.04597.pdf)
